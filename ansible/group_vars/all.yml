@@ -1,0 +1,7 @@
+
+---
+app_image: "ghcr.io/rozjog/devops-ci-app"
+app_tag: "f27fff30872f6216f8174be01f6973982034d7ad"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
